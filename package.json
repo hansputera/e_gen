@@ -1,0 +1,20 @@
+{
+  "name": "e_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansputera/e_gen.git"
+  },
+  "keywords": [],
+  "author": "Hanif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansputera/e_gen/issues"
+  },
+  "homepage": "https://github.com/hansputera/e_gen#readme"
+}
